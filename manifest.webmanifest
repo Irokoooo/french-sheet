@@ -1,0 +1,9 @@
+{
+  "name": "French Sheet",
+  "short_name": "French Sheet",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eee9e0",
+  "theme_color": "#eee9e0",
+  "description": "Magazine-style French reading sheets for annotation."
+}
